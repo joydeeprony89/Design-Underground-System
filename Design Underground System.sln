@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Underground System", "Design Underground System\Design Underground System.csproj", "{EBA32ACF-8713-45B6-9E40-6DF78FFB731A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA32ACF-8713-45B6-9E40-6DF78FFB731A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA32ACF-8713-45B6-9E40-6DF78FFB731A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA32ACF-8713-45B6-9E40-6DF78FFB731A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA32ACF-8713-45B6-9E40-6DF78FFB731A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BDAF4C3-8B4E-47FF-ADBC-69643C00421C}
+	EndGlobalSection
+EndGlobal
